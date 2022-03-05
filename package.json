@@ -1,0 +1,30 @@
+{
+    "name": "com.megumin.urpbeautifullib",
+    "displayName": "URPBeautifulLib",
+    
+    "version": "0.0.1",
+    "unity": "2019.4",
+    "description": "Wizard Fast Created.",
+    "category": "PackageWizard",
+    
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    
+    "hideInEditor" : false,
+    
+    "keywords": [
+        "PackageWizard",
+        "URPBeautifulLib"
+    ],
+
+    "author": {
+        "name": "Unity",
+        "email": "unity@example.com",
+        "url": "https://www.unity3d.com"
+    }
+}
+
+
+
+
